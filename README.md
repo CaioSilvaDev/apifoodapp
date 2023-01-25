@@ -1,4 +1,4 @@
-<h1 align="center"> API em Desenvolvimento para aplicativo de Cardápio e pedidos. </h1>
+<h1 align="center"> ----- </h1>
 
 <h3 align="center"> 
     Tecnologias Utilizadas 
